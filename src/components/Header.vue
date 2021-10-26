@@ -4,7 +4,7 @@
             <img src="../assets/logo.png" alt="logo" class="header__logo" />
         </div>
         <div class="header__banner-text-container">
-            <p class="header__banner-text">Envía bienestar a tu familia en <b class="header__banner-text-bold">Venezuela</b></p>
+            <p class="header__banner-text">Envía bienestar a tu familia en <b class="header__banner-text-bold">Venezuela - PRUEBA DE AMAZON PR PREVIEW</b></p>
         </div>
         <div class="header__banner-image-container">
         </div>
@@ -58,11 +58,6 @@ export default {
         background-size contain
         background-repeat no-repeat
         background-position right
-    .header__banner-image
-        position absolute
-        right 0
-        height 100%
-        object-fit contain
     .header__search-container 
         position absolute
         left 50%
