@@ -58,11 +58,6 @@ export default {
         background-size contain
         background-repeat no-repeat
         background-position right
-    .header__banner-image
-        position absolute
-        right 0
-        height 100%
-        object-fit contain
     .header__search-container 
         position absolute
         left 50%
