@@ -4,7 +4,7 @@
             <img src="../assets/logo.png" alt="logo" class="header__logo" />
         </div>
         <div class="header__banner-text-container">
-            <p class="header__banner-text">Envía bienestar a tu familia en <b class="header__banner-text-bold">Venezuela - THIS IS ANOTHER EXAMPLE</b></p>
+            <p class="header__banner-text">Envía bienestar a tu familia en <b class="header__banner-text-bold">Argentina</b></p>
         </div>
         <div class="header__banner-image-container">
         </div>
